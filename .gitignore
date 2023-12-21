@@ -42,3 +42,4 @@ yarn.lock
 
 # ignore log
 log
+log*audit.json

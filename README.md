@@ -48,6 +48,14 @@ npm run start
 
 The server will start on port 3000.
 
+### Docker
+
+Start a development container that watches for changes in the source code with
+
+```bash
+docker-compose up
+```
+
 ### Build
 
 ```bash
