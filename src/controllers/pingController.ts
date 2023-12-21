@@ -4,7 +4,7 @@ import { Request, Response } from 'express';
  * @openapi
  * /api/ping:
  *   get:
- *     description: Returns 'pong'
+ *     description: Basic connectivity check
  *     responses:
  *       200:
  *         description: pong
