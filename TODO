@@ -1,3 +1,4 @@
 Todo:
  - Implement Bearer security token
  - Healthcheck, beyond ping: https://testfully.io/blog/api-health-check-monitoring/
+ - Dependabot on github
