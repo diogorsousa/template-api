@@ -1,11 +1,4 @@
-# template-blank
-
-This is a public template to scaffold some basics on a new Github repo such as:
-- Issue templates (Epic, User Story and Task)
-- License file, currently MIT
-- This readme file
-
-# Your Project Name
+# Comfy API
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo.svg)](https://github.com/diogorsousa/template-blank/stargazers)
