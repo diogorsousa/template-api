@@ -24,16 +24,13 @@ Explain how to get a copy of your project up and running on the user's local mac
 
 ### Prerequisites
 
-List any software, libraries, or tools that users need to have installed before they can use your project.
+- Node.JS
 
 ### Installation
 
-Provide step-by-step instructions on how to install your project.
-
 ```bash
-# Example installation commands
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/diogorsousa/comfy-api.git
+cd comfy-api
 npm install
 ```
 
