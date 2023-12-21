@@ -1,0 +1,24 @@
+{
+  "name": "comfy-api",
+  "version": "1.0.0",
+  "description": "[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)\r [![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo.svg)](https://github.com/diogorsousa/template-blank/stargazers)\r [![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo.svg)](https://github.com/diogorsousa/template-blank/network)",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/server.ts",
+    "dev": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.10.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
