@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+
 ## Overview
 
 This is a template for an ExpressJS REST API as a starting point for new projects. It is built using Node.js and TypeScript.
@@ -29,6 +30,20 @@ This is a template for an ExpressJS REST API as a starting point for new project
 git clone https://github.com/diogorsousa/comfy-api.git 
 cd comfy-api 
 npm install
+```
+
+### Run
+
+To start a development server that watches for source changes run
+
+```bash
+npm run dev
+```
+
+otherwise use
+
+```bash
+npm run start
 ```
 
 The server will start on port 3000.
