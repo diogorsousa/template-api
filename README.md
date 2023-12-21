@@ -1,4 +1,4 @@
-# Comfy API
+# Template API
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -27,8 +27,8 @@ This is a template for an ExpressJS REST API as a starting point for new project
 ### Installation
 
 ```bash 
-git clone https://github.com/diogorsousa/comfy-api.git 
-cd comfy-api 
+git clone https://github.com/diogorsousa/template-api.git 
+cd template-api 
 npm install
 ```
 
