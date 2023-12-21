@@ -48,6 +48,12 @@ npm run start
 
 The server will start on port 3000.
 
+### Build
+
+```bash
+npm run build
+```
+
 ## API Documentation
 
 API documentation is available via Swagger at `http://localhost:3000/api-docs` when the server is running.
